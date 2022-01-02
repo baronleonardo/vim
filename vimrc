@@ -1,5 +1,6 @@
 let mapleader = " "
 
+source $VIMRUNTIME/defaults.vim
 source ~/.vim/plugins.vim
 source ~/.vim/keymaps.vim
 source ~/.vim/theme.vim
