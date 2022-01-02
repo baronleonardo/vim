@@ -2,6 +2,7 @@ call plug#begin('~/.vim/plugins')
 
 " better default vim configurations
 Plug 'liuchengxu/vim-better-default'
+" let vim_better_default_backup_on = 1
 
 " nerd tree -> files/folders navigator
 Plug 'preservim/nerdtree', { 'on': 'NERDTreeToggle' } |
