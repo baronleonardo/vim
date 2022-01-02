@@ -1,2 +1,4 @@
 plugins/*
 *.old
+viminfo
+.netrwhist
