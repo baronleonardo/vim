@@ -9,6 +9,7 @@ source ~/.vim/theme.vim
 runtime! plugin/default.vim
 set norelativenumber
 set arabicshape!                        " support arabic
+set scrolljump=1
 
 " override the default way of commenting
 autocmd FileType c,cpp,cs,java setlocal commentstring=//\ %s
